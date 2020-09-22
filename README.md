@@ -179,12 +179,12 @@ $ yarn run dockerRun
 
 ## [TODO](./TODO.md)
 
-项目的后续更新计划，欢迎提交 [PR](https://github.com/eshengsky/iBlog/pulls)。
+项目的后续更新计划，欢迎提交 [PR]
 
 ## 许可协议
 MIT License
 
-Copyright (c) 2020 Sky.Sun SUN
+Copyright (c) 2020 BoBoCo.Tom
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
